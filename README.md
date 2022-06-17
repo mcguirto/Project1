@@ -41,11 +41,11 @@ My approach to making this game will be to first write in pseudocode what I want
 If possible, I would like to add music and sound, but this will be the very last thing that I do.
 
 
-![](Img/1.jpeg)
-![](Img/2.jpeg)
-![](Img/3.jpeg)
-![](Img/4.jpeg)
-![](Img/5.jpeg)
-![](Img/6.jpeg)
-![](Img/Loss_Screen.jpeg)
+![](Img/1.jpg)
+![](Img/2.jpg)
+![](Img/3.jpg)
+![](Img/4.jpg)
+![](Img/5.jpg)
+![](Img/6.jpg)
+![](Img/Loss_Screen.jpg)
 ![](Img/Win_Screen.jpg)
