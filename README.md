@@ -39,3 +39,13 @@ My Approach:
 My approach to making this game will be to first write in pseudocode what I want to accomplish. I will have to look over my notes to guide my code. I will have to use google and the project 1 issue queue. Once I have the appropriate pseudocode, I will start working on the functions that will run the game. I will create a HTML file to build the skeleton of the game. I will use JavaScript to make the game work, and use CSS to make the game look pretty. I may create some of the assets myself to make it more unique.
 
 If possible, I would like to add music and sound, but this will be the very last thing that I do.
+
+
+![](Img/1.jpeg)
+![](Img/2.jpeg)
+![](Img/3.jpeg)
+![](Img/4.jpeg)
+![](Img/5.jpeg)
+![](Img/6.jpeg)
+![](Img/Loss_Screen.jpeg)
+![](Img/Win_Screen.jpg)
