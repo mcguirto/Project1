@@ -8,25 +8,21 @@ The game will be a knock off 'galaga'
 
 The as a user, I should be able to move a space ship
 
-The game starts off on a menu where, as a user, should be able to select a start button
+The game starts off on with the user controlling a ship after hitting the start button. Stretch goal: a menu where, as a user, should be able to select a  ship then the start button
 
-The next screen should be a character select between three different characters
-
-As a user, once a character is selected, the game will start
+Stretch goal: The next screen should be a character select between three different characters. then, as a user, once a character is selected, the game will start
 
 Gameplay will involve the user at the left side of the screen, able to move up and down
 
-The enemies will appear on the right side of the screen and charge towards the user
+One enemy will appear on the right side of the screen and charge towards the user
 
-As a user I want to be able to shoot the enemy players and earn points
+As a user I want to be able to shoot the enemy and win.
 
-different enemies are worth different points
-
-Once as a user, I reach a certain amount of points I should win
+Sretch goal: Implement different size enemies, and a score board. Different enemies are worth different points. then as a user, once I reach a certain amount of points I should win
 
 There will then be a 'you win' message
 
-The message will display for a bit before automatically returning to the home screen
+Stretch goal: The message will display for a bit before automatically returning to the home screen
 
 If as a user, my character is touched by an enemy ship, I get destroyed and the game is over
 
