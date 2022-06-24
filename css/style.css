@@ -1,0 +1,44 @@
+#status{
+    color: azure;
+    animation: blinker 1s linear infinite;
+}
+
+h1{
+    color: azure;
+    font-size: 50px;
+}
+
+@keyframes blinker {
+    50%{
+        opacity: 0;
+    }
+}
+
+h2{
+    color: azure;
+    text-align: center;
+}
+
+
+body{
+    background-color: rgb(20, 20, 20);
+}
+
+#container{
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    background-image: url('../Img/Luminet-BH.jpeg');
+    width: 500px;
+    height: 400px;
+    display: inline;
+}
+
+h3{
+    color: crimson;
+    padding:50px;
+    font-size: 10px;
+    text-align: center;
+}
