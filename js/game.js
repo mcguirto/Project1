@@ -7,9 +7,6 @@ const ctx = game.getContext('2d')
 game.setAttribute('width', getComputedStyle(game)['width'])
 game.setAttribute('height', getComputedStyle(game)['height'])
 
-// console.log('this is the canvas width', game.width)
-// console.log('this is the canvas height', game.height)
-
 class SpaceShip {
     constructor(x, y, color, width, height){
         this.x = x,
